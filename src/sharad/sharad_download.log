@@ -1,0 +1,578 @@
+2026-01-24 19:25:02,808 - INFO - downloading 2 tracks
+2026-01-24 19:25:02,808 - INFO - downloading track: 01258301
+2026-01-24 19:25:02,809 - INFO - downloading track: 01823301
+2026-01-24 19:25:02,810 - INFO - Converting geometry files to GeoJSON
+2026-01-24 19:25:02,844 - INFO - All downloading completed
+2026-01-24 19:25:41,275 - INFO - Downloaded: s_02792001_rgram.img
+2026-01-24 19:25:42,415 - INFO - Downloaded: s_02792001_rgram.lbl
+2026-01-24 19:25:43,510 - INFO - Downloaded: s_02792001_geom.lbl
+2026-01-24 19:25:45,184 - INFO - Downloaded: s_02792001_geom.tab
+2026-01-24 19:25:46,267 - INFO - Downloaded: s_02792001_tiff.lbl
+2026-01-24 19:25:58,427 - ERROR - Failed to download s_02792002_geom.lbl: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0279xx/s_02792002_geom.lbl
+2026-01-24 19:26:05,163 - ERROR - Failed to download s_01258302_geom.lbl: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0125xx/s_01258302_geom.lbl
+2026-01-24 19:26:11,377 - INFO - Downloaded: s_02792501_geom.lbl
+2026-01-24 19:27:17,327 - INFO - Downloaded: s_02792501_rgram.img
+2026-01-24 19:27:18,416 - INFO - Downloaded: s_02792501_rgram.lbl
+2026-01-24 19:27:20,140 - INFO - downloading 7 tracks
+2026-01-24 19:27:20,140 - INFO - downloading track: 02791901
+2026-01-24 19:27:21,225 - ERROR - Failed to download s_02791901_rgram.img: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0279xx/s_02791901_rgram.img
+2026-01-24 19:27:22,267 - ERROR - Failed to download s_02791901_rgram.lbl: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0279xx/s_02791901_rgram.lbl
+2026-01-24 19:27:23,345 - ERROR - Failed to download s_02791901_geom.lbl: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0279xx/s_02791901_geom.lbl
+2026-01-24 19:27:24,374 - ERROR - Failed to download s_02791901_geom.tab: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0279xx/s_02791901_geom.tab
+2026-01-24 19:27:25,448 - ERROR - Failed to download s_02791901_tiff.lbl: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0279xx/s_02791901_tiff.lbl
+2026-01-24 19:27:26,552 - ERROR - Failed to download s_02791901_tiff.tif: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0279xx/s_02791901_tiff.tif
+2026-01-24 19:27:27,397 - ERROR - Failed to download s_02791901_sim.img: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_sim.img
+2026-01-24 19:27:28,198 - ERROR - Failed to download s_02791901_sim.xml: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_sim.xml
+2026-01-24 19:27:29,032 - ERROR - Failed to download s_02791901_emap.img: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_emap.img
+2026-01-24 19:27:29,861 - ERROR - Failed to download s_02791901_emap.xml: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_emap.xml
+2026-01-24 19:27:30,654 - ERROR - Failed to download s_02791901_rtrn.csv: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_rtrn.csv
+2026-01-24 19:27:31,461 - ERROR - Failed to download s_02791901_rtrn.xml: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/data/s_0279xx/s_02791901/s_02791901_rtrn.xml
+2026-01-24 19:27:32,285 - ERROR - Failed to download s_02791901_browse_hillshade.tif: 404 Client Error: Not Found for url: https://pds-geosciences.wustl.edu/mro/urn-nasa-pds-mro_sharad_simulations/browse/s_0279xx/s_02791901/s_02791901_browse_hillshade.tif
+2026-01-24 19:27:32,287 - INFO - downloading track: 02792001
+2026-01-24 19:29:11,774 - INFO - Downloaded: s_02792001_sim.img
+2026-01-24 19:29:12,625 - INFO - Downloaded: s_02792001_sim.xml
+2026-01-24 19:29:15,474 - INFO - Downloaded: s_02792001_emap.img
+2026-01-24 19:29:16,386 - INFO - Downloaded: s_02792001_emap.xml
+2026-01-24 19:29:17,795 - INFO - Downloaded: s_02792001_rtrn.csv
+2026-01-24 19:29:18,680 - INFO - Downloaded: s_02792001_rtrn.xml
+2026-01-24 19:29:21,136 - INFO - Downloaded: s_02792001_browse_hillshade.tif
+2026-01-24 19:29:21,138 - INFO - downloading track: 02792101
+2026-01-24 19:30:14,234 - INFO - Downloaded: s_02792101_rgram.img
+2026-01-24 19:30:15,301 - INFO - Downloaded: s_02792101_rgram.lbl
+2026-01-24 19:30:16,415 - INFO - Downloaded: s_02792101_geom.lbl
+2026-01-24 19:30:18,332 - INFO - Downloaded: s_02792101_geom.tab
+2026-01-24 19:30:19,452 - INFO - Downloaded: s_02792101_tiff.lbl
+2026-01-24 19:30:32,904 - INFO - Downloaded: s_02792101_tiff.tif
+2026-01-24 19:33:03,081 - INFO - Downloaded: s_02792101_sim.img
+2026-01-24 19:33:04,115 - INFO - Downloaded: s_02792101_sim.xml
+2026-01-24 19:33:07,993 - INFO - Downloaded: s_02792101_emap.img
+2026-01-24 19:33:08,848 - INFO - Downloaded: s_02792101_emap.xml
+2026-01-24 19:33:10,472 - INFO - Downloaded: s_02792101_rtrn.csv
+2026-01-24 19:33:11,316 - INFO - Downloaded: s_02792101_rtrn.xml
+2026-01-24 19:33:14,592 - INFO - Downloaded: s_02792101_browse_hillshade.tif
+2026-01-24 19:33:14,593 - INFO - downloading track: 02792201
+2026-01-24 19:33:47,576 - INFO - Downloaded: s_02792201_rgram.img
+2026-01-24 19:33:48,735 - INFO - Downloaded: s_02792201_rgram.lbl
+2026-01-24 19:33:49,847 - INFO - Downloaded: s_02792201_geom.lbl
+2026-01-24 19:33:51,510 - INFO - Downloaded: s_02792201_geom.tab
+2026-01-24 19:33:52,629 - INFO - Downloaded: s_02792201_tiff.lbl
+2026-01-24 19:34:01,479 - INFO - Downloaded: s_02792201_tiff.tif
+2026-01-24 19:35:34,268 - INFO - Downloaded: s_02792201_sim.img
+2026-01-24 19:35:35,122 - INFO - Downloaded: s_02792201_sim.xml
+2026-01-24 19:35:37,866 - INFO - Downloaded: s_02792201_emap.img
+2026-01-24 19:35:38,837 - INFO - Downloaded: s_02792201_emap.xml
+2026-01-24 19:35:40,326 - INFO - Downloaded: s_02792201_rtrn.csv
+2026-01-24 19:35:41,129 - INFO - Downloaded: s_02792201_rtrn.xml
+2026-01-24 19:35:43,712 - INFO - Downloaded: s_02792201_browse_hillshade.tif
+2026-01-24 19:35:43,714 - INFO - downloading track: 02792301
+2026-01-25 23:05:46,371 - INFO - ROI: lat=-8.5, lon=175.5, size=6.0 degrees
+2026-01-25 23:05:46,372 - INFO - downloading 7 tracks
+2026-01-25 23:05:46,372 - INFO - downloading track: 01258301
+2026-01-25 23:05:46,377 - INFO - downloading track: 01823301
+2026-01-25 23:05:46,380 - INFO - downloading track: 02285501
+2026-01-25 23:05:46,741 - INFO - downloading track: 02340201
+2026-01-25 23:05:46,746 - INFO - downloading track: 02792001
+2026-01-25 23:05:46,749 - INFO - downloading track: 02792101
+2026-01-25 23:05:46,753 - INFO - downloading track: 02792201
+2026-01-25 23:05:46,756 - INFO - Converting geometry files to GeoJSON
+2026-01-25 23:05:47,688 - INFO - All downloading completed
+2026-01-27 13:49:36,647 - INFO - ROI: lat=-8.5, lon=175.5, size=6.0 degrees
+2026-01-27 13:49:36,743 - INFO - downloading 1 tracks
+2026-01-27 13:49:36,743 - INFO - downloading track: 02702102
+2026-01-27 13:50:13,344 - INFO - Downloaded: s_02702102_rgram.img
+2026-01-27 13:50:14,466 - INFO - Downloaded: s_02702102_rgram.lbl
+2026-01-27 13:50:15,598 - INFO - Downloaded: s_02702102_geom.lbl
+2026-01-27 13:50:17,277 - INFO - Downloaded: s_02702102_geom.tab
+2026-01-27 13:50:18,438 - INFO - Downloaded: s_02702102_tiff.lbl
+2026-01-27 13:50:28,910 - INFO - Downloaded: s_02702102_tiff.tif
+2026-01-27 13:52:17,332 - INFO - Downloaded: s_02702102_sim.img
+2026-01-27 13:52:18,181 - INFO - Downloaded: s_02702102_sim.xml
+2026-01-27 13:52:21,108 - INFO - Downloaded: s_02702102_emap.img
+2026-01-27 13:52:21,962 - INFO - Downloaded: s_02702102_emap.xml
+2026-01-27 13:52:23,438 - INFO - Downloaded: s_02702102_rtrn.csv
+2026-01-27 13:52:24,294 - INFO - Downloaded: s_02702102_rtrn.xml
+2026-01-27 13:52:27,032 - INFO - Downloaded: s_02702102_browse_hillshade.tif
+2026-01-27 13:52:27,032 - INFO - Converting geometry files to GeoJSON
+2026-01-27 13:52:27,350 - ERROR - downloading failed: 'RadarDataDownload' object has no attribute '_normalize_longitude'
+Traceback (most recent call last):
+  File ".\data\sharad_data\sharad\sharad_download.py", line 294, in main
+    download.download_tracks(track_file)
+  File ".\data\sharad_data\sharad\sharad_download.py", line 142, in download_tracks
+    self._convert_geom_files()
+  File ".\data\sharad_data\sharad\sharad_download.py", line 216, in _convert_geom_files
+    self._convert_single_geom_file(geom_file)
+  File ".\data\sharad_data\sharad\sharad_download.py", line 231, in _convert_single_geom_file
+    lon = self._normalize_longitude(lon)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RadarDataDownload' object has no attribute '_normalize_longitude'
+2026-01-27 13:58:15,587 - INFO - ROI: lat=-8.5, lon=175.5, size=6.0 degrees
+2026-01-27 13:58:15,587 - INFO - downloading 1 tracks
+2026-01-27 13:58:15,587 - INFO - downloading track: 02702102
+2026-01-27 13:58:15,587 - INFO - Converting geometry files to GeoJSON
+2026-01-27 13:58:15,654 - INFO - Created GeoJSON: s_02702102_geom.geojson
+2026-01-27 13:58:16,020 - INFO - All downloading completed
+2026-01-27 17:51:14,887 - INFO - ROI: lat=-7.5, lon=174.5, size=10.0 degrees
+2026-01-27 17:51:14,985 - INFO - downloading 1 tracks
+2026-01-27 17:51:14,985 - INFO - downloading track: 02702102
+2026-01-27 17:51:14,985 - INFO - Converting geometry files to GeoJSON
+2026-01-27 17:51:15,603 - INFO - Created GeoJSON: s_02702102_geom.geojson
+2026-01-27 17:51:15,920 - INFO - All downloading completed
+2026-10-09 21:08:45,688 - ERROR - First line must contain: roi_lat,roi_lon,roi_size
+2026-10-09 21:09:08,184 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-10-09 21:09:08,184 - INFO - downloading 2 tracks
+2026-10-09 21:09:08,184 - INFO - downloading track: 01258301
+2026-10-09 21:09:08,279 - INFO - downloading track: 01823301
+2026-10-09 21:09:08,295 - INFO - Converting geometry files to GeoJSON
+2026-10-09 21:09:08,423 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-10-09 21:09:08,455 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-10-09 21:09:08,567 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-10-09 21:09:08,614 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-10-09 21:09:08,958 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-10-09 21:09:09,054 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-10-09 21:09:09,134 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-10-09 21:09:09,134 - INFO - All downloading completed
+2026-10-09 21:14:19,041 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-10-09 21:14:19,041 - INFO - downloading 2 tracksfor the selected region...
+2026-10-09 21:14:19,041 - INFO - downloading track: 01258301
+2026-10-09 21:14:19,041 - INFO - downloading track: 01823301
+2026-10-09 21:14:19,041 - INFO - Converting geometry files to GeoJSON
+2026-10-09 21:14:19,237 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-10-09 21:14:19,281 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-10-09 21:14:19,328 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-10-09 21:14:19,360 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-10-09 21:14:19,439 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-10-09 21:14:19,503 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-10-09 21:14:19,567 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-10-09 21:14:19,567 - INFO - All downloading completed
+2026-10-09 22:04:03,469 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-10-09 22:04:03,469 - INFO - downloading 2 tracksfor the selected region...
+2026-10-09 22:04:03,469 - INFO - downloading track: 01258301
+2026-10-09 22:04:03,564 - INFO - downloading track: 01823301
+2026-10-09 22:04:03,564 - INFO - Converting geometry files to GeoJSON
+2026-10-09 22:04:03,612 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-10-09 22:04:03,650 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-10-09 22:04:03,691 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-10-09 22:04:03,723 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-10-09 22:04:03,802 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-10-09 22:04:03,866 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-10-09 22:04:03,914 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-10-09 22:04:03,914 - INFO - All downloading completed
+2026-11-08 16:08:51,562 - INFO - ROI: lat=21.632044, lon=338.695867, size=7.0 degrees
+2026-11-08 16:08:51,647 - INFO - downloading 4 tracksfor the selected region...
+2026-11-08 16:08:51,647 - INFO - downloading track: 07450902
+2026-11-08 16:08:52,527 - ERROR - Failed to download s_07450902_rgram.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0745xx/s_07450902_rgram.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:53,323 - ERROR - Failed to download s_07450902_rgram.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0745xx/s_07450902_rgram.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:54,142 - ERROR - Failed to download s_07450902_geom.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0745xx/s_07450902_geom.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:54,933 - ERROR - Failed to download s_07450902_geom.tab: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0745xx/s_07450902_geom.tab (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:55,732 - ERROR - Failed to download s_07450902_tiff.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0745xx/s_07450902_tiff.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:56,576 - ERROR - Failed to download s_07450902_tiff.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0745xx/s_07450902_tiff.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:57,158 - ERROR - Failed to download s_07450902_sim.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_sim.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:57,707 - ERROR - Failed to download s_07450902_sim.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_sim.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:58,328 - ERROR - Failed to download s_07450902_emap.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_emap.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:58,895 - ERROR - Failed to download s_07450902_emap.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_emap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:08:59,493 - ERROR - Failed to download s_07450902_rtrn.csv: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_rtrn.csv (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:00,058 - ERROR - Failed to download s_07450902_rtrn.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0745xx/s_07450902/s_07450902_rtrn.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:00,633 - ERROR - Failed to download s_07450902_browse_hillshade.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/browse/s_0745xx/s_07450902/s_07450902_browse_hillshade.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:00,633 - INFO - downloading track: 02573601
+2026-11-08 16:09:01,440 - ERROR - Failed to download s_02573601_rgram.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0257xx/s_02573601_rgram.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:02,244 - ERROR - Failed to download s_02573601_rgram.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0257xx/s_02573601_rgram.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:03,121 - ERROR - Failed to download s_02573601_geom.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0257xx/s_02573601_geom.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:03,992 - ERROR - Failed to download s_02573601_geom.tab: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0257xx/s_02573601_geom.tab (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:04,851 - ERROR - Failed to download s_02573601_tiff.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0257xx/s_02573601_tiff.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:05,686 - ERROR - Failed to download s_02573601_tiff.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0257xx/s_02573601_tiff.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:06,246 - ERROR - Failed to download s_02573601_sim.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_sim.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:06,834 - ERROR - Failed to download s_02573601_sim.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_sim.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:07,475 - ERROR - Failed to download s_02573601_emap.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_emap.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:08,111 - ERROR - Failed to download s_02573601_emap.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_emap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:08,869 - ERROR - Failed to download s_02573601_rtrn.csv: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_rtrn.csv (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:09,533 - ERROR - Failed to download s_02573601_rtrn.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0257xx/s_02573601/s_02573601_rtrn.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:10,104 - ERROR - Failed to download s_02573601_browse_hillshade.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/browse/s_0257xx/s_02573601/s_02573601_browse_hillshade.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:10,104 - INFO - downloading track: 09062901
+2026-11-08 16:09:10,937 - ERROR - Failed to download s_09062901_rgram.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0906xx/s_09062901_rgram.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:11,954 - ERROR - Failed to download s_09062901_rgram.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0906xx/s_09062901_rgram.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:12,815 - ERROR - Failed to download s_09062901_geom.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0906xx/s_09062901_geom.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:13,794 - ERROR - Failed to download s_09062901_geom.tab: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0906xx/s_09062901_geom.tab (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:14,576 - ERROR - Failed to download s_09062901_tiff.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0906xx/s_09062901_tiff.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:15,341 - ERROR - Failed to download s_09062901_tiff.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0906xx/s_09062901_tiff.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:15,935 - ERROR - Failed to download s_09062901_sim.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_sim.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:16,591 - ERROR - Failed to download s_09062901_sim.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_sim.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:17,289 - ERROR - Failed to download s_09062901_emap.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_emap.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:17,872 - ERROR - Failed to download s_09062901_emap.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_emap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:18,459 - ERROR - Failed to download s_09062901_rtrn.csv: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_rtrn.csv (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:19,026 - ERROR - Failed to download s_09062901_rtrn.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0906xx/s_09062901/s_09062901_rtrn.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:19,638 - ERROR - Failed to download s_09062901_browse_hillshade.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/browse/s_0906xx/s_09062901/s_09062901_browse_hillshade.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:19,638 - INFO - downloading track: 05628901
+2026-11-08 16:09:20,436 - ERROR - Failed to download s_05628901_rgram.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0562xx/s_05628901_rgram.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:21,228 - ERROR - Failed to download s_05628901_rgram.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/rgram/s_0562xx/s_05628901_rgram.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:22,025 - ERROR - Failed to download s_05628901_geom.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0562xx/s_05628901_geom.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:22,901 - ERROR - Failed to download s_05628901_geom.tab: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/data/geom/s_0562xx/s_05628901_geom.tab (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:23,675 - ERROR - Failed to download s_05628901_tiff.lbl: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0562xx/s_05628901_tiff.lbl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:24,458 - ERROR - Failed to download s_05628901_tiff.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/mro-m-sharad-5-radargram-v2/mrosh_2101/browse/tiff/s_0562xx/s_05628901_tiff.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:25,043 - ERROR - Failed to download s_05628901_sim.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_sim.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:25,605 - ERROR - Failed to download s_05628901_sim.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_sim.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:26,185 - ERROR - Failed to download s_05628901_emap.img: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_emap.img (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:26,756 - ERROR - Failed to download s_05628901_emap.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_emap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:27,329 - ERROR - Failed to download s_05628901_rtrn.csv: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_rtrn.csv (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:27,881 - ERROR - Failed to download s_05628901_rtrn.xml: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/data/s_0562xx/s_05628901/s_05628901_rtrn.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:28,513 - ERROR - Failed to download s_05628901_browse_hillshade.tif: HTTPSConnectionPool(host='pds-geosciences.wustl.edu', port=443): Max retries exceeded with url: /mro/urn-nasa-pds-mro_sharad_simulations/browse/s_0562xx/s_05628901/s_05628901_browse_hillshade.tif (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2026-11-08 16:09:28,513 - INFO - Converting geometry files to GeoJSON
+2026-11-08 16:09:28,707 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 16:09:28,756 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 16:09:28,895 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 16:09:28,950 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 16:09:29,260 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 16:09:29,364 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 16:09:29,444 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 16:09:29,445 - INFO - All downloading completed
+2026-11-08 16:14:23,350 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 16:14:23,350 - INFO - downloading 2 tracksfor the selected region...
+2026-11-08 16:14:23,350 - INFO - downloading track: 07081001
+2026-11-08 16:14:59,625 - INFO - Downloaded: s_07081001_rgram.img
+2026-11-08 16:15:00,781 - INFO - Downloaded: s_07081001_rgram.lbl
+2026-11-08 16:15:01,948 - INFO - Downloaded: s_07081001_geom.lbl
+2026-11-08 16:15:03,742 - INFO - Downloaded: s_07081001_geom.tab
+2026-11-08 16:15:04,968 - INFO - Downloaded: s_07081001_tiff.lbl
+2026-11-08 16:15:15,042 - INFO - Downloaded: s_07081001_tiff.tif
+2026-11-08 16:17:01,731 - INFO - Downloaded: s_07081001_sim.img
+2026-11-08 16:17:02,826 - INFO - Downloaded: s_07081001_sim.xml
+2026-11-08 16:17:06,663 - INFO - Downloaded: s_07081001_emap.img
+2026-11-08 16:17:07,521 - INFO - Downloaded: s_07081001_emap.xml
+2026-11-08 16:17:09,156 - INFO - Downloaded: s_07081001_rtrn.csv
+2026-11-08 16:17:10,033 - INFO - Downloaded: s_07081001_rtrn.xml
+2026-11-08 16:17:14,012 - INFO - Downloaded: s_07081001_browse_hillshade.tif
+2026-11-08 16:17:14,012 - INFO - downloading track: 08766201
+2026-11-08 16:18:00,098 - INFO - Downloaded: s_08766201_rgram.img
+2026-11-08 16:18:01,179 - INFO - Downloaded: s_08766201_rgram.lbl
+2026-11-08 16:18:02,326 - INFO - Downloaded: s_08766201_geom.lbl
+2026-11-08 16:18:04,195 - INFO - Downloaded: s_08766201_geom.tab
+2026-11-08 16:18:05,442 - INFO - Downloaded: s_08766201_tiff.lbl
+2026-11-08 16:18:14,756 - INFO - Downloaded: s_08766201_tiff.tif
+2026-11-08 16:20:04,315 - INFO - Downloaded: s_08766201_sim.img
+2026-11-08 16:20:05,229 - INFO - Downloaded: s_08766201_sim.xml
+2026-11-08 16:20:08,396 - INFO - Downloaded: s_08766201_emap.img
+2026-11-08 16:20:09,316 - INFO - Downloaded: s_08766201_emap.xml
+2026-11-08 16:20:10,779 - INFO - Downloaded: s_08766201_rtrn.csv
+2026-11-08 16:20:11,666 - INFO - Downloaded: s_08766201_rtrn.xml
+2026-11-08 16:20:15,299 - INFO - Downloaded: s_08766201_browse_hillshade.tif
+2026-11-08 16:20:15,299 - INFO - Converting geometry files to GeoJSON
+2026-11-08 16:20:15,408 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 16:20:15,438 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 16:20:15,546 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 16:20:15,577 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 16:20:15,732 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 16:20:15,795 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 16:20:15,863 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 16:20:15,946 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 16:20:16,034 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 16:20:16,034 - INFO - All downloading completed
+2026-11-08 16:50:01,492 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 16:50:01,492 - INFO - downloading 2 tracksfor the selected region...
+2026-11-08 16:50:01,492 - INFO - downloading track: 07500302
+2026-11-08 16:50:39,774 - INFO - Downloaded: s_07500302_rgram.img
+2026-11-08 16:50:40,852 - INFO - Downloaded: s_07500302_rgram.lbl
+2026-11-08 16:52:00,426 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 16:52:00,426 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 16:52:00,426 - INFO - downloading track: 08986401
+2026-11-08 16:52:52,120 - INFO - Downloaded: s_08986401_rgram.img
+2026-11-08 16:52:53,245 - INFO - Downloaded: s_08986401_rgram.lbl
+2026-11-08 16:52:54,318 - INFO - Downloaded: s_08986401_geom.lbl
+2026-11-08 16:52:55,982 - INFO - Downloaded: s_08986401_geom.tab
+2026-11-08 16:52:57,018 - INFO - Downloaded: s_08986401_tiff.lbl
+2026-11-08 16:53:11,922 - INFO - Downloaded: s_08986401_tiff.tif
+2026-11-08 16:54:54,257 - INFO - Downloaded: s_08986401_sim.img
+2026-11-08 16:54:56,787 - INFO - Downloaded: s_08986401_sim.xml
+2026-11-08 16:55:00,456 - INFO - Downloaded: s_08986401_emap.img
+2026-11-08 16:55:01,385 - INFO - Downloaded: s_08986401_emap.xml
+2026-11-08 16:55:03,823 - INFO - Downloaded: s_08986401_rtrn.csv
+2026-11-08 16:55:04,733 - INFO - Downloaded: s_08986401_rtrn.xml
+2026-11-08 16:55:08,113 - INFO - Downloaded: s_08986401_browse_hillshade.tif
+2026-11-08 16:55:08,113 - INFO - Converting geometry files to GeoJSON
+2026-11-08 16:55:08,251 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 16:55:08,336 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 16:55:08,450 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 16:55:08,482 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 16:55:08,613 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 16:55:08,716 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 16:55:08,798 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 16:55:08,908 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 16:55:08,998 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 16:55:09,115 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-08 16:55:09,115 - INFO - All downloading completed
+2026-11-08 17:23:08,867 - INFO - Downloaded: data.xml
+2026-11-08 17:28:43,754 - INFO - Downloaded: data.xml
+2026-11-08 17:30:05,770 - INFO - Downloaded: data.xml
+2026-11-08 17:30:37,130 - INFO - Downloaded: data.xml
+2026-11-08 17:38:12,973 - INFO - Downloaded: data.xml
+2026-11-08 17:56:13,089 - INFO - Downloaded: data.xml
+2026-11-08 17:58:38,203 - INFO - Downloaded: data.xml
+2026-11-08 18:27:01,328 - INFO - Downloaded: data.xml
+2026-11-08 18:33:14,675 - INFO - Downloaded: data.xml
+2026-11-08 18:34:17,425 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 18:34:17,425 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 18:34:17,425 - INFO - downloading track: 08986401
+2026-11-08 18:34:17,425 - INFO - Converting geometry files to GeoJSON
+2026-11-08 18:34:17,510 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 18:34:17,545 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 18:34:17,604 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 18:34:17,641 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 18:34:17,718 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 18:34:17,790 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 18:34:17,857 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 18:34:17,923 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 18:34:18,004 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 18:34:18,073 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-08 18:34:18,073 - INFO - All downloading completed
+2026-11-08 18:42:34,332 - INFO - Downloaded: data.xml
+2026-11-08 18:43:31,040 - INFO - Downloaded: data.xml
+2026-11-08 18:43:55,185 - INFO - Downloaded: data.xml
+2026-11-08 18:44:24,828 - INFO - Downloaded: data.xml
+2026-11-08 18:45:32,219 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 18:45:32,219 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 18:45:32,219 - INFO - downloading track: 06575102
+2026-11-08 18:46:01,172 - INFO - Downloaded: s_06575102_rgram.img
+2026-11-08 18:46:02,267 - INFO - Downloaded: s_06575102_rgram.lbl
+2026-11-08 18:46:03,326 - INFO - Downloaded: s_06575102_geom.lbl
+2026-11-08 18:46:04,819 - INFO - Downloaded: s_06575102_geom.tab
+2026-11-08 18:46:05,884 - INFO - Downloaded: s_06575102_tiff.lbl
+2026-11-08 18:46:14,183 - INFO - Downloaded: s_06575102_tiff.tif
+2026-11-08 18:47:25,652 - INFO - Downloaded: s_06575102_sim.img
+2026-11-08 18:47:26,518 - INFO - Downloaded: s_06575102_sim.xml
+2026-11-08 18:47:29,193 - INFO - Downloaded: s_06575102_emap.img
+2026-11-08 18:47:30,155 - INFO - Downloaded: s_06575102_emap.xml
+2026-11-08 18:47:31,455 - INFO - Downloaded: s_06575102_rtrn.csv
+2026-11-08 18:47:32,316 - INFO - Downloaded: s_06575102_rtrn.xml
+2026-11-08 18:47:34,376 - INFO - Downloaded: s_06575102_browse_hillshade.tif
+2026-11-08 18:47:34,378 - INFO - Converting geometry files to GeoJSON
+2026-11-08 18:47:34,435 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 18:47:34,479 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 18:47:34,595 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 18:47:34,648 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 18:47:34,735 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 18:47:34,797 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 18:47:34,866 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 18:47:34,935 - INFO - Created GeoJSON: s_06575102_geom.geojson
+2026-11-08 18:47:34,997 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 18:47:35,081 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 18:47:35,164 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-08 18:47:35,164 - INFO - All downloading completed
+2026-11-08 18:55:53,524 - INFO - Downloaded: data.xml
+2026-11-08 18:57:48,497 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 18:57:48,497 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 18:57:48,497 - INFO - downloading track: 06080601
+2026-11-08 18:58:03,320 - INFO - Downloaded: s_06080601_rgram.img
+2026-11-08 18:58:04,370 - INFO - Downloaded: s_06080601_rgram.lbl
+2026-11-08 18:58:05,451 - INFO - Downloaded: s_06080601_geom.lbl
+2026-11-08 18:58:06,995 - INFO - Downloaded: s_06080601_geom.tab
+2026-11-08 18:58:08,066 - INFO - Downloaded: s_06080601_tiff.lbl
+2026-11-08 18:58:16,274 - INFO - Downloaded: s_06080601_tiff.tif
+2026-11-08 18:59:12,955 - INFO - Downloaded: s_06080601_sim.img
+2026-11-08 18:59:15,071 - INFO - Downloaded: s_06080601_sim.xml
+2026-11-08 18:59:16,787 - INFO - Downloaded: s_06080601_emap.img
+2026-11-08 18:59:17,670 - INFO - Downloaded: s_06080601_emap.xml
+2026-11-08 18:59:18,953 - INFO - Downloaded: s_06080601_rtrn.csv
+2026-11-08 18:59:19,859 - INFO - Downloaded: s_06080601_rtrn.xml
+2026-11-08 18:59:22,099 - INFO - Downloaded: s_06080601_browse_hillshade.tif
+2026-11-08 18:59:22,099 - INFO - Converting geometry files to GeoJSON
+2026-11-08 18:59:22,268 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 18:59:22,339 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 18:59:22,491 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 18:59:22,534 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 18:59:22,784 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 18:59:22,870 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 18:59:22,933 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 18:59:23,004 - INFO - Created GeoJSON: s_06080601_geom.geojson
+2026-11-08 18:59:23,072 - INFO - Created GeoJSON: s_06575102_geom.geojson
+2026-11-08 18:59:23,220 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 18:59:23,332 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 18:59:23,517 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-08 18:59:23,517 - INFO - All downloading completed
+2026-11-08 19:04:16,312 - INFO - Downloaded: data.xml
+2026-11-08 19:08:04,837 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-08 19:08:04,837 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 19:08:04,837 - INFO - downloading track: 06101701
+2026-11-08 19:08:22,912 - INFO - Downloaded: s_06101701_rgram.img
+2026-11-08 19:08:24,110 - INFO - Downloaded: s_06101701_rgram.lbl
+2026-11-08 19:08:25,275 - INFO - Downloaded: s_06101701_geom.lbl
+2026-11-08 19:08:27,063 - INFO - Downloaded: s_06101701_geom.tab
+2026-11-08 19:08:28,141 - INFO - Downloaded: s_06101701_tiff.lbl
+2026-11-08 19:08:34,871 - INFO - Downloaded: s_06101701_tiff.tif
+2026-11-08 19:09:23,100 - INFO - Downloaded: s_06101701_sim.img
+2026-11-08 19:09:24,016 - INFO - Downloaded: s_06101701_sim.xml
+2026-11-08 19:09:26,699 - INFO - Downloaded: s_06101701_emap.img
+2026-11-08 19:09:27,547 - INFO - Downloaded: s_06101701_emap.xml
+2026-11-08 19:09:28,842 - INFO - Downloaded: s_06101701_rtrn.csv
+2026-11-08 19:09:29,696 - INFO - Downloaded: s_06101701_rtrn.xml
+2026-11-08 19:09:32,076 - INFO - Downloaded: s_06101701_browse_hillshade.tif
+2026-11-08 19:09:32,077 - INFO - Converting geometry files to GeoJSON
+2026-11-08 19:09:32,736 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-08 19:09:33,063 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-08 19:09:33,230 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-08 19:09:33,364 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-08 19:09:33,680 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-08 19:09:33,763 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-08 19:09:33,830 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-08 19:09:33,929 - INFO - Created GeoJSON: s_06080601_geom.geojson
+2026-11-08 19:09:33,997 - INFO - Created GeoJSON: s_06101701_geom.geojson
+2026-11-08 19:09:34,113 - INFO - Created GeoJSON: s_06575102_geom.geojson
+2026-11-08 19:09:34,279 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-08 19:09:34,446 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-08 19:09:34,663 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-08 19:09:34,672 - INFO - All downloading completed
+2026-11-08 19:19:48,179 - INFO - Downloaded: data.xml
+2026-11-08 19:22:17,659 - INFO - ROI: lat=81.606628, lon=335.666709, size=7.248502 degrees
+2026-11-08 19:22:17,659 - INFO - downloading 1 tracksfor the selected region...
+2026-11-08 19:22:17,659 - INFO - downloading track: 00813403
+2026-11-08 19:22:34,533 - INFO - Downloaded: s_00813403_rgram.img
+2026-11-08 19:22:35,587 - INFO - Downloaded: s_00813403_rgram.lbl
+2026-11-08 19:22:36,630 - INFO - Downloaded: s_00813403_geom.lbl
+2026-11-08 19:22:38,031 - INFO - Downloaded: s_00813403_geom.tab
+2026-11-08 19:22:39,114 - INFO - Downloaded: s_00813403_tiff.lbl
+2026-11-08 19:22:44,601 - INFO - Downloaded: s_00813403_tiff.tif
+2026-11-08 19:23:28,092 - INFO - Downloaded: s_00813403_sim.img
+2026-11-08 19:23:29,074 - INFO - Downloaded: s_00813403_sim.xml
+2026-11-08 19:23:31,493 - INFO - Downloaded: s_00813403_emap.img
+2026-11-08 19:23:32,323 - INFO - Downloaded: s_00813403_emap.xml
+2026-11-08 19:23:33,537 - INFO - Downloaded: s_00813403_rtrn.csv
+2026-11-08 19:23:34,410 - INFO - Downloaded: s_00813403_rtrn.xml
+2026-11-08 19:23:36,408 - INFO - Downloaded: s_00813403_browse_hillshade.tif
+2026-11-08 19:23:36,409 - INFO - Converting geometry files to GeoJSON
+2026-11-08 19:23:36,492 - INFO - Created GeoJSON: s_00813403_geom.geojson
+2026-11-08 19:23:37,207 - INFO - All downloading completed
+2026-11-08 19:28:22,770 - INFO - Downloaded: data.xml
+2026-11-09 18:19:48,829 - INFO - Downloaded: data.xml
+2026-11-09 18:27:35,726 - INFO - Downloaded: data.xml
+2026-11-09 18:31:01,872 - INFO - Downloaded: data.xml
+2026-11-09 18:36:10,374 - INFO - Downloaded: data.xml
+2026-11-09 18:36:45,173 - INFO - ROI: lat=83.276375, lon=251.836185, size=5.128865 degrees
+2026-11-09 18:36:45,173 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 18:36:45,173 - INFO - downloading track: 06945701
+2026-11-09 18:37:00,421 - INFO - Downloaded: s_06945701_rgram.img
+2026-11-09 18:37:01,509 - INFO - Downloaded: s_06945701_rgram.lbl
+2026-11-09 18:37:02,676 - INFO - Downloaded: s_06945701_geom.lbl
+2026-11-09 18:37:04,260 - INFO - Downloaded: s_06945701_geom.tab
+2026-11-09 18:37:05,444 - INFO - Downloaded: s_06945701_tiff.lbl
+2026-11-09 18:37:10,979 - INFO - Downloaded: s_06945701_tiff.tif
+2026-11-09 18:37:51,026 - INFO - Downloaded: s_06945701_sim.img
+2026-11-09 18:37:52,117 - INFO - Downloaded: s_06945701_sim.xml
+2026-11-09 18:37:54,551 - INFO - Downloaded: s_06945701_emap.img
+2026-11-09 18:37:55,533 - INFO - Downloaded: s_06945701_emap.xml
+2026-11-09 18:37:56,846 - INFO - Downloaded: s_06945701_rtrn.csv
+2026-11-09 18:37:57,914 - INFO - Downloaded: s_06945701_rtrn.xml
+2026-11-09 18:37:59,694 - INFO - Downloaded: s_06945701_browse_hillshade.tif
+2026-11-09 18:37:59,694 - INFO - Converting geometry files to GeoJSON
+2026-11-09 18:38:00,794 - INFO - All downloading completed
+2026-11-09 18:53:34,142 - INFO - ROI: lat=51.108078, lon=229.377495, size=14.233422 degrees
+2026-11-09 18:53:34,142 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 18:53:34,142 - INFO - downloading track: 05828501
+2026-11-09 18:54:15,256 - INFO - Downloaded: s_05828501_rgram.img
+2026-11-09 18:54:16,485 - INFO - Downloaded: s_05828501_rgram.lbl
+2026-11-09 18:54:17,516 - INFO - Downloaded: s_05828501_geom.lbl
+2026-11-09 18:54:19,316 - INFO - Downloaded: s_05828501_geom.tab
+2026-11-09 18:54:20,378 - INFO - Downloaded: s_05828501_tiff.lbl
+2026-11-09 18:54:34,324 - INFO - Downloaded: s_05828501_tiff.tif
+2026-11-09 18:56:15,797 - INFO - Downloaded: s_05828501_sim.img
+2026-11-09 18:56:16,664 - INFO - Downloaded: s_05828501_sim.xml
+2026-11-09 18:56:19,196 - INFO - Downloaded: s_05828501_emap.img
+2026-11-09 18:56:20,047 - INFO - Downloaded: s_05828501_emap.xml
+2026-11-09 18:56:21,561 - INFO - Downloaded: s_05828501_rtrn.csv
+2026-11-09 18:56:22,377 - INFO - Downloaded: s_05828501_rtrn.xml
+2026-11-09 18:56:24,793 - INFO - Downloaded: s_05828501_browse_hillshade.tif
+2026-11-09 18:56:24,793 - INFO - Converting geometry files to GeoJSON
+2026-11-09 18:56:25,028 - INFO - Created GeoJSON: s_05828501_geom.geojson
+2026-11-09 18:56:25,092 - INFO - All downloading completed
+2026-11-09 19:07:13,898 - INFO - Downloaded: data.xml
+2026-11-09 19:07:14,193 - INFO - Masked 3 vertical noise channel(s) for track track-1
+2026-11-09 19:16:37,162 - INFO - Downloaded: data.xml
+2026-11-09 19:16:39,343 - INFO - Masked 3 vertical noise channel(s) for track track-1
+2026-11-09 19:19:00,531 - INFO - ROI: lat=-46.483175, lon=77.554564, size=6.040419 degrees
+2026-11-09 19:19:00,531 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 19:19:00,531 - INFO - downloading track: 06710001
+2026-11-09 19:19:54,689 - INFO - Downloaded: s_06710001_rgram.img
+2026-11-09 19:19:55,819 - INFO - Downloaded: s_06710001_rgram.lbl
+2026-11-09 19:19:56,870 - INFO - Downloaded: s_06710001_geom.lbl
+2026-11-09 19:19:58,867 - INFO - Downloaded: s_06710001_geom.tab
+2026-11-09 19:19:59,963 - INFO - Downloaded: s_06710001_tiff.lbl
+2026-11-09 19:20:14,493 - INFO - Downloaded: s_06710001_tiff.tif
+2026-11-09 19:22:27,107 - INFO - Downloaded: s_06710001_sim.img
+2026-11-09 19:22:28,106 - INFO - Downloaded: s_06710001_sim.xml
+2026-11-09 19:22:30,569 - INFO - Downloaded: s_06710001_emap.img
+2026-11-09 19:22:31,491 - INFO - Downloaded: s_06710001_emap.xml
+2026-11-09 19:22:33,080 - INFO - Downloaded: s_06710001_rtrn.csv
+2026-11-09 19:22:33,952 - INFO - Downloaded: s_06710001_rtrn.xml
+2026-11-09 19:22:36,965 - INFO - Downloaded: s_06710001_browse_hillshade.tif
+2026-11-09 19:22:36,965 - INFO - Converting geometry files to GeoJSON
+2026-11-09 19:22:37,800 - INFO - Created GeoJSON: s_06710001_geom.geojson
+2026-11-09 19:22:38,102 - INFO - All downloading completed
+2026-11-09 19:27:04,580 - INFO - ROI: lat=-85.177215, lon=0.37463, size=7.819596 degrees
+2026-11-09 19:27:04,580 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 19:27:04,580 - INFO - downloading track: 05726001
+2026-11-09 19:27:30,567 - INFO - Downloaded: s_05726001_rgram.img
+2026-11-09 19:27:31,649 - INFO - Downloaded: s_05726001_rgram.lbl
+2026-11-09 19:27:32,716 - INFO - Downloaded: s_05726001_geom.lbl
+2026-11-09 19:27:34,335 - INFO - Downloaded: s_05726001_geom.tab
+2026-11-09 19:27:35,381 - INFO - Downloaded: s_05726001_tiff.lbl
+2026-11-09 19:27:41,679 - INFO - Downloaded: s_05726001_tiff.tif
+2026-11-09 19:28:53,309 - INFO - Downloaded: s_05726001_sim.img
+2026-11-09 19:28:54,257 - INFO - Downloaded: s_05726001_sim.xml
+2026-11-09 19:28:56,988 - INFO - Downloaded: s_05726001_emap.img
+2026-11-09 19:28:57,851 - INFO - Downloaded: s_05726001_emap.xml
+2026-11-09 19:28:59,188 - INFO - Downloaded: s_05726001_rtrn.csv
+2026-11-09 19:29:00,087 - INFO - Downloaded: s_05726001_rtrn.xml
+2026-11-09 19:29:01,937 - INFO - Downloaded: s_05726001_browse_hillshade.tif
+2026-11-09 19:29:01,954 - INFO - Converting geometry files to GeoJSON
+2026-11-09 19:29:02,019 - INFO - Created GeoJSON: s_02792001_geom.geojson
+2026-11-09 19:29:02,087 - INFO - Created GeoJSON: s_05726001_geom.geojson
+2026-11-09 19:29:02,187 - INFO - All downloading completed
+2026-11-09 19:33:02,678 - INFO - ROI: lat=-82.705078, lon=309.506836, size=15.029296 degrees
+2026-11-09 19:33:02,678 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 19:33:02,678 - INFO - downloading track: 05105101
+2026-11-09 19:33:18,751 - INFO - Downloaded: s_05105101_rgram.img
+2026-11-09 19:33:19,869 - INFO - Downloaded: s_05105101_rgram.lbl
+2026-11-09 19:33:20,933 - INFO - Downloaded: s_05105101_geom.lbl
+2026-11-09 19:33:22,453 - INFO - Downloaded: s_05105101_geom.tab
+2026-11-09 19:33:23,602 - INFO - Downloaded: s_05105101_tiff.lbl
+2026-11-09 19:33:33,849 - INFO - Downloaded: s_05105101_tiff.tif
+2026-11-09 19:34:27,384 - INFO - Downloaded: s_05105101_sim.img
+2026-11-09 19:34:28,247 - INFO - Downloaded: s_05105101_sim.xml
+2026-11-09 19:34:30,568 - INFO - Downloaded: s_05105101_emap.img
+2026-11-09 19:34:31,434 - INFO - Downloaded: s_05105101_emap.xml
+2026-11-09 19:34:32,744 - INFO - Downloaded: s_05105101_rtrn.csv
+2026-11-09 19:34:33,644 - INFO - Downloaded: s_05105101_rtrn.xml
+2026-11-09 19:34:35,759 - INFO - Downloaded: s_05105101_browse_hillshade.tif
+2026-11-09 19:34:35,759 - INFO - Converting geometry files to GeoJSON
+2026-11-09 19:34:35,880 - INFO - Created GeoJSON: s_05105101_geom.geojson
+2026-11-09 19:34:35,997 - INFO - All downloading completed
+2026-11-09 19:43:42,781 - INFO - Downloaded: data.xml
+2026-11-09 19:43:43,138 - INFO - Masked 3 vertical noise channel(s) for track track-1
+2026-11-09 19:53:44,860 - INFO - ROI: lat=23.1, lon=341.2, size=7.0 degrees
+2026-11-09 19:53:44,860 - INFO - downloading 1 tracksfor the selected region...
+2026-11-09 19:53:44,860 - INFO - downloading track: 07216802
+2026-11-09 19:54:26,581 - INFO - Downloaded: s_07216802_rgram.img
+2026-11-09 19:54:27,656 - INFO - Downloaded: s_07216802_rgram.lbl
+2026-11-09 19:54:28,772 - INFO - Downloaded: s_07216802_geom.lbl
+2026-11-09 19:54:30,421 - INFO - Downloaded: s_07216802_geom.tab
+2026-11-09 19:54:31,520 - INFO - Downloaded: s_07216802_tiff.lbl
+2026-11-09 19:54:46,510 - INFO - Downloaded: s_07216802_tiff.tif
+2026-11-09 19:56:23,099 - INFO - Downloaded: s_07216802_sim.img
+2026-11-09 19:56:24,049 - INFO - Downloaded: s_07216802_sim.xml
+2026-11-09 19:56:26,982 - INFO - Downloaded: s_07216802_emap.img
+2026-11-09 19:56:27,814 - INFO - Downloaded: s_07216802_emap.xml
+2026-11-09 19:56:29,230 - INFO - Downloaded: s_07216802_rtrn.csv
+2026-11-09 19:56:30,125 - INFO - Downloaded: s_07216802_rtrn.xml
+2026-11-09 19:56:32,746 - INFO - Downloaded: s_07216802_browse_hillshade.tif
+2026-11-09 19:56:32,746 - INFO - Converting geometry files to GeoJSON
+2026-11-09 19:56:32,839 - INFO - Created GeoJSON: s_01258301_geom.geojson
+2026-11-09 19:56:32,863 - INFO - Created GeoJSON: s_01823301_geom.geojson
+2026-11-09 19:56:32,928 - INFO - Created GeoJSON: s_02285501_geom.geojson
+2026-11-09 19:56:32,962 - INFO - Created GeoJSON: s_02340201_geom.geojson
+2026-11-09 19:56:33,043 - INFO - Created GeoJSON: s_02792502_geom.geojson
+2026-11-09 19:56:33,159 - INFO - Created GeoJSON: s_05531301_geom.geojson
+2026-11-09 19:56:33,229 - INFO - Created GeoJSON: s_05698802_geom.geojson
+2026-11-09 19:56:33,361 - INFO - Created GeoJSON: s_06080601_geom.geojson
+2026-11-09 19:56:33,427 - INFO - Created GeoJSON: s_06101701_geom.geojson
+2026-11-09 19:56:33,498 - INFO - Created GeoJSON: s_06575102_geom.geojson
+2026-11-09 19:56:33,589 - INFO - Created GeoJSON: s_07081001_geom.geojson
+2026-11-09 19:56:33,671 - INFO - Created GeoJSON: s_07216802_geom.geojson
+2026-11-09 19:56:33,741 - INFO - Created GeoJSON: s_08766201_geom.geojson
+2026-11-09 19:56:33,808 - INFO - Created GeoJSON: s_08986401_geom.geojson
+2026-11-09 19:56:33,808 - INFO - All downloading completed
